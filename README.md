@@ -5,4 +5,5 @@ r
 r34
 # test-rep
 abc.css/
+abc.js
 
